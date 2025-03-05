@@ -1,0 +1,107 @@
+(footprint "ce-icon_3mm"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Converted using: svg2mod -i ce-icon.svg --name ce-symbol_mask_3mm --precision 1")
+	(tags "svg2mod")
+	(property "Reference" "ce-symbol_mask_3mm"
+		(at 0 -3.048 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "2a88132b-acd0-4292-ab14-fbbcf65a9521")
+		(effects
+			(font
+				(size 1.524 1.524)
+				(thickness 0.3048)
+			)
+		)
+	)
+	(property "Value" "G***"
+		(at 0 6.048 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "61fb0ac2-afd2-4e42-af64-e6be0b3d436f")
+		(effects
+			(font
+				(size 1.524 1.524)
+				(thickness 0.3048)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2afaedca-5675-44f6-9e86-933fd7a57022")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b522547c-1575-4c74-b0b6-1a320b26618c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "87b35f9b-8cf8-4e93-92d5-728b39ea5a49")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr exclude_from_pos_files exclude_from_bom)
+	(fp_poly
+		(pts
+			(xy 1.65 2.9925) (xy 1.5 3) (xy 1.256689 2.980368) (xy 1.025879 2.92353) (xy 0.810658 2.832575) (xy 0.614114 2.71059)
+			(xy 0.439335 2.560665) (xy 0.289409 2.385886) (xy 0.167425 2.189342) (xy 0.07647 1.974121) (xy 0.019632 1.743311)
+			(xy 0 1.5) (xy 0.019632 1.256689) (xy 0.07647 1.025879) (xy 0.167425 0.810658) (xy 0.289409 0.614114)
+			(xy 0.439335 0.439335) (xy 0.614114 0.289409) (xy 0.810658 0.167425) (xy 1.025879 0.07647) (xy 1.256689 0.019632)
+			(xy 1.5 0) (xy 1.65 0.0075) (xy 1.65 0.4575) (xy 1.5 0.45) (xy 1.259238 0.47773) (xy 1.038227 0.556719)
+			(xy 0.84327 0.680667) (xy 0.680667 0.84327) (xy 0.556719 1.038227) (xy 0.47773 1.259238) (xy 0.45 1.5)
+			(xy 0.47773 1.740762) (xy 0.556719 1.961772) (xy 0.680667 2.15673) (xy 0.84327 2.319333) (xy 1.038227 2.44328)
+			(xy 1.259238 2.52227) (xy 1.5 2.55) (xy 1.65 2.5425) (xy 1.65 2.9925)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "ce86c22b-fc5d-484e-95b3-60af04713c6d")
+	)
+	(fp_poly
+		(pts
+			(xy 4.2 2.9925) (xy 4.05 3) (xy 3.806689 2.980368) (xy 3.575879 2.92353) (xy 3.360658 2.832575) (xy 3.164114 2.71059)
+			(xy 2.989335 2.560665) (xy 2.839409 2.385886) (xy 2.717425 2.189342) (xy 2.62647 1.974121) (xy 2.569632 1.743311)
+			(xy 2.55 1.5) (xy 2.569632 1.256689) (xy 2.62647 1.025879) (xy 2.717425 0.810658) (xy 2.839409 0.614114)
+			(xy 2.989335 0.439335) (xy 3.164114 0.289409) (xy 3.360658 0.167425) (xy 3.575879 0.07647) (xy 3.806689 0.019632)
+			(xy 4.05 0) (xy 4.2 0.0075) (xy 4.2 0.4575) (xy 4.05 0.45) (xy 3.810112 0.477625) (xy 3.588366 0.556787)
+			(xy 3.391837 0.681795) (xy 3.2276 0.84696) (xy 3.102729 1.046592) (xy 3.0243 1.275) (xy 3.9 1.275)
+			(xy 3.9 1.725) (xy 3.0243 1.725) (xy 3.102729 1.953408) (xy 3.2276 2.15304) (xy 3.391837 2.318205)
+			(xy 3.588366 2.443213) (xy 3.810112 2.522375) (xy 4.05 2.55) (xy 4.2 2.5425) (xy 4.2 2.9925)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "5279d7ef-60e8-4002-83c0-d9b9573ba0f4")
+	)
+)
